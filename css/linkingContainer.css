@@ -1,0 +1,6 @@
+ul li a.remove{ color:black;}
+ul li a.add{ color:black;}
+ul li a.disabled { color:black; cursor:default; text-decoration:none;}
+ul li a.disabled:hover {text-decoration:none; }
+ul li a.disabled:active {color:black }
+ul li.linkedItem{background-color:#cccccc}
